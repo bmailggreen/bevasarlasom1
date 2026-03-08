@@ -15,3 +15,4 @@ görögdinnye
 sárgadinnye
 toll
 tolltartó
+kisbusz
