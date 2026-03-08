@@ -10,3 +10,4 @@ cukor
 csoki
 pillecukor
 görögdinnye
+sárgadinnye
