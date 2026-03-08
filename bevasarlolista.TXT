@@ -17,4 +17,4 @@ toll
 papír
 radír
 tolltartó
-kisautó
+kisbusz
